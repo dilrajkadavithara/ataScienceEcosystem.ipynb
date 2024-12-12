@@ -1,2 +1,2 @@
-# ataScienceEcosystem.ipynb
+# DataScienceEcosystem.ipynb
 Datascience assignement file
